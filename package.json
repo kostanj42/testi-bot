@@ -1,0 +1,15 @@
+{
+  "name": "testibot",
+  "version": "1.0.0",
+  "description": "Bot za teste",
+  "main": "tindex.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kostanj42",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.1.0",
+    "moment": "^2.29.1"
+  }
+}
