@@ -82,5 +82,5 @@ predmet:timestamp:opis
 - velikrat je v () "E4C", mišlen kot razred (če bi blo nrjen za več razredov). Najbol da se povsod zamena, med drugim za seznam(909), vse .txt datoteke.
 - določene stvari zgledajo kot da se jih lahko spremeni, ampak tega ne priporočam.
 - zakomentirane stvari: še sam nevem ampak tako kot je dela in se ne dotikam.
-- "Napaka: 123": nima določenega ime, samo za lažje iskanje.
+- "Napaka: 123": nima določenega imena, samo za lažje iskanje.
 - spreminjanje trenutnega leta: vrstice 835, 897, 900 (doublecheck)
