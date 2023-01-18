@@ -78,8 +78,8 @@ predmet:timestamp:opis
 8. .bat datoteka: za zagon in ponoven restart.
 
 9. random nastavitve in podobno v \tindex.js
-- glavni user(lahko dodaja moderatorje in uporablja vse komande(nekatere so samo testne)): funkcija aJeToKostan(vrstica 950): za spremenit user id
--velikrat je v () "E4C", mišlen kot razred (če bi blo nrjen za več razredov). Najbol da se povsod zamena, med drugim za seznam(909), vse .txt datoteke.
+- glavni user(lahko dodaja moderatorje in uporablja vse komande(nekatere so samo testne)): funkcija aJeToKostan(vrstica 950): za spremenit user id 
+- velikrat je v () "E4C", mišlen kot razred (če bi blo nrjen za več razredov). Najbol da se povsod zamena, med drugim za seznam(909), vse .txt datoteke.
 - določene stvari zgledajo kot da se jih lahko spremeni, ampak tega ne priporočam.
 - zakomentirane stvari: še sam nevem ampak tako kot je dela in se ne dotikam.
 - "Napaka: 123": nima določenega ime, samo za lažje iskanje.
