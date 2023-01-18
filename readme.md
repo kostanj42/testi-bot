@@ -68,7 +68,7 @@ channelid:messageid
 
 5. \settings.json: prefix in token
 
-6. .txt datoteka s seznamom testov
+6. \reminders\E4C.txt: seznam testov
 ```
 predmet:timestamp:opis
 ```
