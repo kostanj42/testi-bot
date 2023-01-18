@@ -54,7 +54,7 @@ channelid:messageid
 4. roles za obvestila za teste: \reminders\roles.json
 ```json
 {
-	"endan":"",
+	"endan":"id role-a za 1 dan",
 	"dvadni":"",
 	"tridni":"",
 	"stiridni":"",
